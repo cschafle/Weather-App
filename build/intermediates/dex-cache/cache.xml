@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/corinneschafle/AndroidStudioProjects/Weather/app/build/intermediates/pre-dexed/debug/rxjava-android-0.17.5-dcc9efa8cb54380e15909de71ce36714fd8768b0.jar"
+        jar="/Users/corinneschafle/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-android/0.17.5/38c0a26e0ff41f22c1dca3405b55fe7af4d949c4/rxjava-android-0.17.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="38c0a26e0ff41f22c1dca3405b55fe7af4d949c4"/>
+    <item
+        dex="/Users/corinneschafle/AndroidStudioProjects/Weather/app/build/intermediates/pre-dexed/debug/rxjava-core-0.17.5-da595487d6ae7ce752ba60a6add767d41ce256e9.jar"
+        jar="/Users/corinneschafle/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-core/0.17.5/c832b52ab9ef5277dbf55fe1223ec52bafc63e60/rxjava-core-0.17.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c832b52ab9ef5277dbf55fe1223ec52bafc63e60"/>
+    <item
+        dex="/Users/corinneschafle/AndroidStudioProjects/Weather/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1-24ce5a1c95655e65141fc800c32a41b34f0450aa.jar"
+        jar="/Users/corinneschafle/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee"/>
+    <item
+        dex="/Users/corinneschafle/AndroidStudioProjects/Weather/app/build/intermediates/pre-dexed/debug/classes-8130c07242141b5d6545a98dcf7e8477444b39fc.jar"
+        jar="/Users/corinneschafle/AndroidStudioProjects/Weather/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/corinneschafle/AndroidStudioProjects/Weather/app/build/intermediates/pre-dexed/debug/gson-2.2.4-ee96711d4674129ec3c3e34dd5b2df1825cb0e00.jar"
+        jar="/Users/corinneschafle/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="/Users/corinneschafle/AndroidStudioProjects/Weather/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-5e89b4685a42780e6b37e77287c48eae3aaa30c4.jar"
+        jar="/Users/corinneschafle/Projects/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
